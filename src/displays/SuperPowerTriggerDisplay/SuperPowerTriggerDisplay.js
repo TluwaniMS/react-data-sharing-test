@@ -1,8 +1,12 @@
 import React from "react";
 import "./SuperPowerTriggerDisplay.css";
 
-const SuperPowerTriggerDisplay = () => {
-  return <button className="button super-power-button">Power</button>;
+const SuperPowerTriggerDisplay = ({ heroPower, triggerSuperPower }) => {
+  return (
+    <button className="button super-power-button" onClick={() => triggerSuperPower(heroPower)}>
+      Power
+    </button>
+  );
 };
 
 export default SuperPowerTriggerDisplay;
