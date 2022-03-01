@@ -1,11 +1,12 @@
-import React from 'react';
+import React from "react";
+import DetailedSuperHeroesDisplay from "../../displays/DetailedSuperHeroesDisplay/DetailedSuperHeroesDisplay";
 
 const DetailedSuperHeroesComponent = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return (
+    <div>
+      <DetailedSuperHeroesDisplay />
+    </div>
+  );
 };
 
 export default DetailedSuperHeroesComponent;

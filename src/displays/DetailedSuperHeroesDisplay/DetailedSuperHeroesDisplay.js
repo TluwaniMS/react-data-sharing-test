@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const DetailedSuperHeroesDisplay = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <div>Detailed display works.!!</div>;
 };
 
 export default DetailedSuperHeroesDisplay;
