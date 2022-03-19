@@ -1,3 +1,6 @@
+# About Repository:
+This a basic react-js project that i created to learn how to share data through react-routes useing "state".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
