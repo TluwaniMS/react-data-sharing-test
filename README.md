@@ -1,5 +1,5 @@
 # About Repository:
-This a basic react-js project that i created to learn how to share data through react-routes useing "state".
+This a basic react-js project that i created to learn how to share data through react-routes using "state".
 
 # Software(s) required:
 * Latest stable version of Node Package Manager
